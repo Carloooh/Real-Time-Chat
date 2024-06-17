@@ -3,4 +3,4 @@ Web -> https://real-time-chat-kohl.vercel.app/
 
 CREATED JUST FOR LEARNING PURPOSES, original idea is from: https://github.com/AntonioErdeljac
 
-His repository: https://github.com/AntonioErdeljac/next13-messenger
+His repository -> https://github.com/AntonioErdeljac/next13-messenger
